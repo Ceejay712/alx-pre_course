@@ -1,2 +1,1 @@
-My first read me as an alx student.
-i want to be a sifteware engineer.
+Alx is getting more interesting as we learn more
