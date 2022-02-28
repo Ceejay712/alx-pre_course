@@ -1,2 +1,1 @@
-My first read me as an alx student.
-i want to be a sifteware engineer.
+“Cool, all my changes will be now part of the main branch, ready to be deployed!”
